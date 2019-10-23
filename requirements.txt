@@ -1,6 +1,6 @@
 appnope==0.1.0
 backcall==0.1.0
-causaldag==0.1a96
+causaldag==0.1a122
 cycler==0.10.0
 dataclasses==0.6
 decorator==4.4.0
@@ -14,6 +14,7 @@ jupyter-core==4.4.0
 kiwisolver==1.0.1
 llvmlite==0.28.0
 matplotlib==3.0.3
+networkx==2.4
 numba==0.43.1
 numpy==1.16.2
 pandas==0.24.2
@@ -37,3 +38,4 @@ tornado==6.0.2
 traitlets==4.3.2
 typing==3.6.6
 wcwidth==0.1.7
+xarray==0.12.1
